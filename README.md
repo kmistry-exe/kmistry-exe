@@ -6,17 +6,15 @@ My work focuses on creating maintainable systems using technologies across the f
 
 You can explore some of my work in the repositories below, including a modular **ECommerce CMS dashboard built with Angular** and other full-stack projects.
 
+- Portfolio: https://karanmistry-portfolio.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/karan-mistry-tech/
+
 ## Tech Stack
 
 .NET Core | Angular | Svelte | TypeScript | JavaScript | SQL Server | REST APIs | Git | Tailwind CSS
 
-## Projects
+## Recent Projects
 
-Some highlighted repositories:
 - [ECommerce CMS](https://ecommercek28.netlify.app/) – Angular admin dashboard with reusable components and modular architecture - 
 - ECommerce API – JSON Server mock backend supporting products, orders, users, and categories
-- Additional projects exploring modern frontend frameworks and scalable backend patterns
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/karan-mistry-tech/
+Additional projects exploring modern frontend frameworks and scalable backend patterns
